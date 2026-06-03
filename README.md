@@ -1,9 +1,5 @@
-# Hello
+Blog: https://andrei-akopian.bearblog.dev/blog/
 
-My name is Andrei
+Website: [andrei-akopian.github.io](https://andrei-akopian.github.io/) (PGP Key and email are there)
 
-Here is my Blog: https://andrei-akopian.bearblog.dev/blog/
-
-Website: andrei-akopian.github.io (PGP Key and Bruner email are there)
-
-If you want to contact me, but for some reason don't have my info, spam it here https://github.com/andrei-akopian/andrei-akopian/discussions
+I am friendly, and my projects are confusing. Just ask, I will help.
